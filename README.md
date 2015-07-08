@@ -17,7 +17,7 @@ Logs For Summer Holiday in Lab305
 ### 7月7日
 
 --
-+ TASK 数据库学习
++ fudong 数据库学习
   + Task
     - 学习使用github，知道如何使用fork，create，and request。
     - 对于mysql的学习只是初步的了解了下，并没深入学习。
