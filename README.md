@@ -14,6 +14,21 @@ Logs For Summer Holiday in Lab305
 
 --
 
+### 7月7日
+
+--
++ TASK 数据库学习
+  + Task
+    - 学习使用github，知道如何使用fork，create，and request。
+    - 对于mysql的学习只是初步的了解了下，并没深入学习。
+  + Acquired
+    - 初步了解了github这个版本控制系统，知道这是个共享代码的开源社区。
+    - 学会了在github中fork，create，and request。
+  + Block
+    - 遇到全英文的网站，有些单词拿不准，还要去查。还有看mysql，对于之前没什么基础的我， 对于数据库没什么整体概念，所以学起来很慢
+    - 
+--
+
 ### 7月6日
 
 --
