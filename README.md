@@ -26,7 +26,7 @@ Logs For Summer Holiday in Lab305
     - 学会了在github中fork，create，and request。
   + Block
     - 遇到全英文的网站，有些单词拿不准，还要去查。还有看mysql，对于之前没什么基础的我， 对于数据库没什么整体概念，所以学起来很慢
-    - 
+  
 --
 
 ### 7月6日
