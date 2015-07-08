@@ -13,10 +13,10 @@ Logs For Summer Holiday in Lab305
 - 有新提交的内容，整理后会按时间流列在下文，方便大家都清楚项目的进度。
 
 --
+--
 
 ### 7月7日
 
---
 + fudong 数据库学习
   + Task
     - 学习使用github，知道如何使用fork，create，and request。
@@ -31,7 +31,6 @@ Logs For Summer Holiday in Lab305
 
 ### 7月6日
 
---
 + lqq 后台页面设计
   + Task
     - 页面设计整体知识点的划分以及界面的划分，相关知识点的总结，以及任务的分配
